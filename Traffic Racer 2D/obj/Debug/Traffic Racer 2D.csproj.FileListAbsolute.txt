@@ -1,0 +1,62 @@
+C:\Users\sedat\OneDrive\Masaüstü\PC Programcılığı\2.Sınıf Güz\Görsel Programlama II\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.csproj.AssemblyReference.cache
+C:\Users\sedat\OneDrive\Masaüstü\PC Programcılığı\2.Sınıf Güz\Görsel Programlama II\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.csproj.SuggestedBindingRedirects.cache
+C:\Users\sedat\OneDrive\Masaüstü\PC Programcılığı\2.Sınıf Güz\Görsel Programlama II\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic_Racer_2D.TR2.resources
+C:\Users\sedat\OneDrive\Masaüstü\PC Programcılığı\2.Sınıf Güz\Görsel Programlama II\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic_Racer_2D.Properties.Resources.resources
+C:\Users\sedat\OneDrive\Masaüstü\PC Programcılığı\2.Sınıf Güz\Görsel Programlama II\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.csproj.GenerateResource.cache
+C:\Users\sedat\OneDrive\Masaüstü\PC Programcılığı\2.Sınıf Güz\Görsel Programlama II\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.csproj.CoreCompileInputs.cache
+C:\Users\sedat\OneDrive\Masaüstü\PC Programcılığı\2.Sınıf Güz\Görsel Programlama II\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\Traffic Racer 2D.exe.config
+C:\Users\sedat\OneDrive\Masaüstü\PC Programcılığı\2.Sınıf Güz\Görsel Programlama II\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\Traffic Racer 2D.exe
+C:\Users\sedat\OneDrive\Masaüstü\PC Programcılığı\2.Sınıf Güz\Görsel Programlama II\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\Traffic Racer 2D.pdb
+C:\Users\sedat\OneDrive\Masaüstü\PC Programcılığı\2.Sınıf Güz\Görsel Programlama II\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.exe
+C:\Users\sedat\OneDrive\Masaüstü\PC Programcılığı\2.Sınıf Güz\Görsel Programlama II\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.pdb
+C:\Users\sedat\OneDrive\Masaüstü\PC Programcılığı\2.Sınıf Güz\Görsel Programlama II\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\Interop.WMPLib.dll
+C:\Users\sedat\OneDrive\Masaüstü\PC Programcılığı\2.Sınıf Güz\Görsel Programlama II\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sedat\OneDrive\Masaüstü\PC Programcılığı\2.Sınıf Güz\Görsel Programlama II\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Interop.WMPLib.dll
+C:\Users\sedat\OneDrive\Masaüstü\PC Programcılığı\2.Sınıf Güz\Görsel Programlama II\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sedat\OneDrive\Masaüstü\PC Programcılığı\2.Sınıf Güz\Görsel Programlama II\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.csproj.ResolveComReference.cache
+C:\Users\sedat\OneDrive\Masaüstü\PC Programcılığı\2.Sınıf Güz\Görsel Programlama II\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic_Racer_2D.Form2.resources
+C:\Users\sedat\OneDrive\Masaüstü\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\Traffic Racer 2D.exe.config
+C:\Users\sedat\OneDrive\Masaüstü\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\Traffic Racer 2D.exe
+C:\Users\sedat\OneDrive\Masaüstü\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\Traffic Racer 2D.pdb
+C:\Users\sedat\OneDrive\Masaüstü\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\Emgu.CV.xml
+C:\Users\sedat\OneDrive\Masaüstü\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\Emgu.CV.UI.xml
+C:\Users\sedat\OneDrive\Masaüstü\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\Emgu.Util.xml
+C:\Users\sedat\OneDrive\Masaüstü\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\Interop.WMPLib.dll
+C:\Users\sedat\OneDrive\Masaüstü\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sedat\OneDrive\Masaüstü\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.csproj.AssemblyReference.cache
+C:\Users\sedat\OneDrive\Masaüstü\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.csproj.SuggestedBindingRedirects.cache
+C:\Users\sedat\OneDrive\Masaüstü\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Interop.WMPLib.dll
+C:\Users\sedat\OneDrive\Masaüstü\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sedat\OneDrive\Masaüstü\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.csproj.ResolveComReference.cache
+C:\Users\sedat\OneDrive\Masaüstü\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic_Racer_2D.TR2.resources
+C:\Users\sedat\OneDrive\Masaüstü\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic_Racer_2D.Form2.resources
+C:\Users\sedat\OneDrive\Masaüstü\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic_Racer_2D.Properties.Resources.resources
+C:\Users\sedat\OneDrive\Masaüstü\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.csproj.GenerateResource.cache
+C:\Users\sedat\OneDrive\Masaüstü\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.csproj.CoreCompileInputs.cache
+C:\Users\sedat\OneDrive\Masaüstü\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.csproj.CopyComplete
+C:\Users\sedat\OneDrive\Masaüstü\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.exe
+C:\Users\sedat\OneDrive\Masaüstü\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.pdb
+C:\Users\sedat\OneDrive\Masaüstü\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\MetroFramework.Design.dll
+C:\Users\sedat\OneDrive\Masaüstü\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\MetroFramework.dll
+C:\Users\sedat\OneDrive\Masaüstü\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\sedat\OneDrive\Masaüstü\Email\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\Traffic Racer 2D.exe.config
+C:\Users\sedat\OneDrive\Masaüstü\Email\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\Traffic Racer 2D.exe
+C:\Users\sedat\OneDrive\Masaüstü\Email\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\Traffic Racer 2D.pdb
+C:\Users\sedat\OneDrive\Masaüstü\Email\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\MetroFramework.Design.dll
+C:\Users\sedat\OneDrive\Masaüstü\Email\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\MetroFramework.dll
+C:\Users\sedat\OneDrive\Masaüstü\Email\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\sedat\OneDrive\Masaüstü\Email\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\Interop.WMPLib.dll
+C:\Users\sedat\OneDrive\Masaüstü\Email\Traffic Racer 2D\Traffic Racer 2D\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sedat\OneDrive\Masaüstü\Email\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.csproj.AssemblyReference.cache
+C:\Users\sedat\OneDrive\Masaüstü\Email\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.csproj.SuggestedBindingRedirects.cache
+C:\Users\sedat\OneDrive\Masaüstü\Email\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Interop.WMPLib.dll
+C:\Users\sedat\OneDrive\Masaüstü\Email\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sedat\OneDrive\Masaüstü\Email\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.csproj.ResolveComReference.cache
+C:\Users\sedat\OneDrive\Masaüstü\Email\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic_Racer_2D.TR2.resources
+C:\Users\sedat\OneDrive\Masaüstü\Email\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic_Racer_2D.Form2.resources
+C:\Users\sedat\OneDrive\Masaüstü\Email\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic_Racer_2D.Properties.Resources.resources
+C:\Users\sedat\OneDrive\Masaüstü\Email\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.csproj.GenerateResource.cache
+C:\Users\sedat\OneDrive\Masaüstü\Email\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.csproj.CoreCompileInputs.cache
+C:\Users\sedat\OneDrive\Masaüstü\Email\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.csproj.CopyComplete
+C:\Users\sedat\OneDrive\Masaüstü\Email\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.exe
+C:\Users\sedat\OneDrive\Masaüstü\Email\Traffic Racer 2D\Traffic Racer 2D\obj\Debug\Traffic Racer 2D.pdb
